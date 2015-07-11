@@ -1,0 +1,18 @@
+.page, .title, .action, .articles {
+      width: auto;
+      margin-left: auto;
+      margin-right: auto;
+      display: table;
+      font-family: SteelfishLtRegular,arial,sans-serif;
+}
+
+button {
+	width: 200px;
+	height: 100px;
+	margin: 0px 10px 0px 10px;
+	font-size: 15px;
+}
+
+.butt.stop {
+	background-color: #ff0000;
+}
